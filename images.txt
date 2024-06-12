@@ -10,6 +10,6 @@ redis
 gdy666/lucky
 stilleshan/frpc
 jackytj/sillyplus
-luomubiji/ntqq
+luomubiji/ntqq:latest
 luomubiji/2w
 whyour/qinglong:2.11.3
