@@ -13,3 +13,4 @@ stilleshan/frpc
 jackytj/sillyplus
 luomubiji/ntqq:latest
 luomubiji/2w
+whyour/qinglong:2.17.0
